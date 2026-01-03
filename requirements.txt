@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+openai
+PyPDF2
+SpeechRecognition
+gTTS
